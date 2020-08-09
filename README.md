@@ -1,5 +1,12 @@
 # ETL_project
-ETL group assignment
+
+Through cleaning up and analyzing crime rate data of Vancouver and Toronto practice the whole process of data management:
+
+* **E**xtract: achieve your original data sources 
+
+* **T**ransform: data cleaning or transformation 
+
+* **L**oad: load the cleaned tables to database for future use
 
 ## Team members:
 * Sherry Huang
@@ -37,15 +44,3 @@ __Crime data__ analysis __(ETL focused)__ of City of Toronto and City of Vancouv
 - Occurrence date of the week
 - Longitude
 - Latitude
-#### We will perform the following ETL for further analysis.
-* Compare the crime rate by category in Toronto and Vancouver.
-    - We will drop the unrelated columns
-    - match datasets by date to cover the same date range
-    - groupby categories
-* Analyze the crime rate trends in one city over the years.
-    - drop unrelated columns
-    - groupby category
-    - groupby years
-* Analyze the crime rate trends month by month
-    - groupby months
-    - drop unrelated columns

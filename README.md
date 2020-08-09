@@ -54,3 +54,4 @@ __Crime data__ analysis __(ETL focused)__ of City of Toronto and City of Vancouv
 -	Used “engine” to connect to the local database and check for tables.
 -	Used pandas to load cleaned data into database “Crime_db”.
 -	Confirm data has been added by querying tables “vancouver_crime” and “toronto_crime”
+-	In SQL, use “select * from …” to check the uploaded data of each table.

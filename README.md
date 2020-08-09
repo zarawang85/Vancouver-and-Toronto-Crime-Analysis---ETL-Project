@@ -44,3 +44,9 @@ __Crime data__ analysis __(ETL focused)__ of City of Toronto and City of Vancouv
 - Occurrence date of the week
 - Longitude
 - Latitude
+## Data cleaning and analyzing.
+#### Crime counts by months of the year (Toronto)
+![GitHub Logo](/images/toronto_crime_avg_month.png)
+#### Crime counts by months of the year (Vancouver)
+![GitHub Logo](/images/crime_month_avg.png)
+

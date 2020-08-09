@@ -49,4 +49,8 @@ __Crime data__ analysis __(ETL focused)__ of City of Toronto and City of Vancouv
 ![GitHub Logo](/Images/toronto_crime_avg_month.jpg)
 #### Crime counts by months of the year (Vancouver)
 ![GitHub Logo](/Images/crime_month_avg.jpg)
-
+## Load tables to SQL
+●	In SQL, created a database called “crime_db” and create 2 tables called “vancouver_crime” and “toronto_crime” respectively.
+●	Used “engine” to connect to the local database and check for tables.
+●	Used pandas to load cleaned data into database “Crime_db”.
+●	Confirm data has been added by querying tables “vancouver_crime” and “toronto_crime”
